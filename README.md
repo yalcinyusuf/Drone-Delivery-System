@@ -30,6 +30,3 @@ Practice example for take off screen:
 
 
 
-
-https://user-images.githubusercontent.com/61952281/175562704-fabac36e-0dc3-4dc7-80ac-6e47d0e688d6.mp4
-

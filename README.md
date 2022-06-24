@@ -28,5 +28,25 @@ The avg loss value of the model is 0.3064, and the mAP value is 91.4%. These res
 Practice example for take off screen:
 
 
+https://user-images.githubusercontent.com/61952281/175565950-6bcbea97-ac8c-4e25-bf4f-70da01a71c40.mp4
+
+Practice example for take off:
+
+
+https://user-images.githubusercontent.com/61952281/175566336-68620af1-774e-4d24-b976-abf4debd59a6.mp4
+
+
+
+
+Practice example for landing screen:
+
+
+https://user-images.githubusercontent.com/61952281/175565431-d01dd98f-0d13-4254-b5db-67f2f4e235a9.mp4
+
+Practice example for landing:
+
+
+
+https://user-images.githubusercontent.com/61952281/175566782-dd1d6a86-aabd-4b3c-8a02-77efff6f1856.mp4
 
 

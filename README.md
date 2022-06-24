@@ -27,6 +27,9 @@ The avg loss value of the model is 0.3064, and the mAP value is 91.4%. These res
 
 Practice example for take off screen:
 
-https://user-images.githubusercontent.com/61952281/175562308-a1d4fb2c-e9d3-4a27-9d24-be3b1b7579bc.mp4
 
+
+
+
+https://user-images.githubusercontent.com/61952281/175562704-fabac36e-0dc3-4dc7-80ac-6e47d0e688d6.mp4
 

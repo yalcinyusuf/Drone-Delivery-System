@@ -9,10 +9,7 @@ http://www.fit.vutbr.cz/research/groups/graph/pclines/pub_page.php?id=2012-SCCG-
 
 Google Colabratory, which offers Nvidia Tesla K80 GPU support, was used for the training process. YOLOv4 object detection algorithm was used for the model. The OpenCV library was used to perform object recognition with the YOLOv4 algorithm. YOLOv4 is in a very good position compared to its competitors in object detection. YOLO is an algorithm for object detection using convolutional neural networks (CNN). It can detect very quickly and in one go.
 
-
-[link=https://github.com/yalcinyusuf/Drone-Delivery-System/blob/main/QRcode_model.ipynb]QRcode_model.ipynb[/https://github.com/yalcinyusuf/Drone-Delivery-System/blob/main/QRcode_model.ipynb]
-
-You can look at the QRcode_model.ipynb file.
+You can look at the [QRcode_model.ipynb]([url](https://github.com/yalcinyusuf/Drone-Delivery-System/blob/main/QRcode_model.ipynb)) file.
 
 ### QR Code Decoding
 

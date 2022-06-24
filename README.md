@@ -23,3 +23,10 @@ As a result, in this graduation project, the drone takes off when the QR code is
 
 ## Results
 The avg loss value of the model is 0.3064, and the mAP value is 91.4%. These results enable the model to make successful detections. Thanks to object detection algorithms using deep learning algorithms, drones can detect quickly and be delivered by air in a faster, safer and least costly way. Thus, drones can take part in delivery instead of humans.
+
+
+Practice example for take off screen:
+
+https://user-images.githubusercontent.com/61952281/175562308-a1d4fb2c-e9d3-4a27-9d24-be3b1b7579bc.mp4
+
+

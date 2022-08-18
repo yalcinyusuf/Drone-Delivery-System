@@ -1,4 +1,6 @@
 # Drone-Delivery-System
+QR code approved delivery project using object detection algorithms with drone
+
 This project is my graduation thesis project. The aim of the studies carried out within the scope of this graduation project is to realize the backbone of the drone delivery system. In this context, studies in which deep learning and drone are integrated were carried out in the project. A QR code confirmation is required to confirm delivery by drone. For this, a data set consisting of QR codes was prepared and the model was trained to recognize the QR code.  
 ### Dataset
 For the training of the model, a QR code data set consisting of 116 data and 1 class was prepared. Help was taken from the data set in the link below.
